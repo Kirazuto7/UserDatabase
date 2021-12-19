@@ -1,4 +1,4 @@
-**UserDatabase** is a simple login program that allows users to register an account and have their information saved.
+**UserDatabase** is a login program that allows users to register an account and have their information saved in a database system.
 
 ## User Stories
 
