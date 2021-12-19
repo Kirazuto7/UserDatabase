@@ -1,8 +1,6 @@
 **UserDatabase** is a program that allows users to register an account and have their information saved in a database system.
 
-## User Stories
-
-The following functionality is completed:
+## Program functionality
 
 - [x] Text file is generated to store user information.
 - [x] User can register an account with a username and password.
