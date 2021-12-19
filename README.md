@@ -4,9 +4,10 @@
 
 The following functionality is completed:
 
+- [x] Text file is generated to store user information.
 - [x] User can register an account with a username and password.
 - [x] User can login with their username and password.
-- [x] User login information is saved in a text file.
+- [x] User login information is parsed from the file into an array everytime the program is run.
 - [x] User can change their password and have it updated in the database.
 - [x] The database can keep track of currently logged in users.
 
